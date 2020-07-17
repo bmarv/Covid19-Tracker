@@ -1,6 +1,8 @@
 # Covid19-Tracker
 
-This project was build with ReactJS only.
+A live version can be found [here](https://daily-covid19-tracker.netlify.app/).
+
+_This project was build with ReactJS._
 
 ## Overview
 
